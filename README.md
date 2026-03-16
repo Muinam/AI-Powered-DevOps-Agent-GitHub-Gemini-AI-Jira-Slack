@@ -83,7 +83,7 @@ Slack
 
 ### Jira Ticket Auto Created
 
-![Jira Ticket](C:\Users\SABRI LAPTOP\Downloads\Ai-Devops Agent github-gira-slack\jira-ticket.png)
+![Jira Ticket](jira-ticket.png)
 
 ### Slack Notification
 
