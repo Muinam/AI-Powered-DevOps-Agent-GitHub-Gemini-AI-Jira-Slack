@@ -79,7 +79,7 @@ Slack
 
 ### Make.com Scenario
 
-![Make.com Flow](C:\Users\SABRI LAPTOP\Downloads\Ai-Devops Agent github-gira-slack\ai-devops-ag-jir.png)
+![Make.com Flow](ai-devops-ag-jir.png)
 
 ### Jira Ticket Auto Created
 
