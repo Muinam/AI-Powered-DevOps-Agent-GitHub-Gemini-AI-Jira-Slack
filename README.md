@@ -87,4 +87,4 @@ Slack
 
 ### Slack Notification
 
-![Slack Message](C:\Users\SABRI LAPTOP\Downloads\Ai-Devops Agent github-gira-slack\ai-devops-slack.png)
+![Slack Message](ai-devops-slack.png)
